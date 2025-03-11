@@ -1,4 +1,4 @@
-![logo](https://github.com/Ahmad18697/Ahmad18697/blob/main/Background.jpeg)
+![logo](https://github.com/Ahmad18697/Ahmad18697/blob/main/Background.png)
 
 <h1 align="center">Hi 👋, I'm Ahmad Raza</h1>
 <h3 align="center">Computer Science & Engineering</h3>
